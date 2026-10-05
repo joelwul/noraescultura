@@ -1,0 +1,76 @@
+{
+  "hero-nucleo-ascendente": {
+    "w": 1376,
+    "h": 768,
+    "widths": [
+      640,
+      960,
+      1280,
+      1376
+    ]
+  },
+  "orbita-mineral": {
+    "w": 1122,
+    "h": 1402,
+    "widths": [
+      480,
+      768,
+      1024,
+      1122
+    ]
+  },
+  "nora-portrait": {
+    "w": 488,
+    "h": 636,
+    "widths": [
+      320,
+      480,
+      488
+    ]
+  },
+  "arquitectura-del-vacio": {
+    "w": 1122,
+    "h": 1402,
+    "widths": [
+      480,
+      768,
+      1024
+    ]
+  },
+  "eje-de-la-materia": {
+    "w": 1122,
+    "h": 1402,
+    "widths": [
+      480,
+      768,
+      1024
+    ]
+  },
+  "estratos-del-silencio": {
+    "w": 1122,
+    "h": 1402,
+    "widths": [
+      480,
+      768,
+      1024
+    ]
+  },
+  "jardin-interior": {
+    "w": 1122,
+    "h": 1402,
+    "widths": [
+      480,
+      768,
+      1024
+    ]
+  },
+  "nucleo-ascendente": {
+    "w": 1122,
+    "h": 1402,
+    "widths": [
+      480,
+      768,
+      1024
+    ]
+  }
+}
